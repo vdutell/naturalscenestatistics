@@ -1,0 +1,6 @@
+*.ipynb_checkpoints*
+*.pyc
+*.png
+*.mp4
+/output*
+nohup.out
